@@ -1,1 +1,3 @@
 # Job-Placement
+In this project...from the past data we have to predict that person will placed or not?
+Here I have done it with different types of Classification Algorithms and predict there accuracy...
